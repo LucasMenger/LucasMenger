@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Menger</h1>
-<h3 align="center">Fullstack Software Engineer | .NET | C# | Blazor | Azure | AWS | Microservices | Cloud Enthusiast</h3>
+<h3 align="center">Fullstack Software Engineer | .NET | C# | Blazor | Angular | React.js | Azure | AWS | Microservices | Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/LucasMenger">
