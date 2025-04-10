@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-With over **7 years of experience** in back-end development and database management, I specialize in designing and delivering scalable, resilient, and efficient software solutions using **.NET**, **C#**, **Blazor**, **Azure**, **AWS**, **SQL**, **MySQL**, **Docker**, and **microservices**.
+With over **8 years of experience** in back-end development and database management, I specialize in designing and delivering scalable, resilient, and efficient software solutions using **.NET**, **C#**, **Blazor**, **Azure**, **AWS**, **SQL**, **MySQL**, **Docker**, and **microservices**.
 
 Throughout my career, I've developed solutions focused on **process automation and optimization**, helping businesses **boost efficiency** and **reduce operational costs**.
 
